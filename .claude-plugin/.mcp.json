@@ -1,8 +1,0 @@
-{
-  "mcpServers": {
-    "siftree": {
-      "type": "http",
-      "url": "https://app.siftree.com/api/mcp"
-    }
-  }
-}
