@@ -37,7 +37,6 @@ Install **Siftree** from the ChatGPT plugin directory, which ChatGPT and Codex s
 | `.claude-plugin/plugin.json`, `.mcp.json` | Claude (Claude Code, Claude apps, Cowork) |
 | `.claude-plugin/marketplace.json` | Claude Code, to install from this repository |
 | `plugin.json`, `mcp.json` | ChatGPT and Codex ([Agent Plugins](https://agent-plugins.org) format) |
-| `assets/logo.png` | Both directories' listings |
 
 Both MCP files point at the same server.
 
