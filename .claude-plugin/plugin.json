@@ -1,0 +1,20 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "siftree",
+  "displayName": "Siftree",
+  "version": "10.0.0",
+  "description": "Collect, store, search, and analyze your Siftree documents (social posts, reviews, transcripts, and more) and build Siftree apps, through the Siftree MCP server.",
+  "author": {
+    "name": "Siftree",
+    "email": "support@siftree.com",
+    "url": "https://www.siftree.com"
+  },
+  "homepage": "https://www.siftree.com",
+  "repository": "https://github.com/Siftree/agent-plugin",
+  "license": "Apache-2.0",
+  "keywords": ["siftree", "unstructured-data", "social-listening", "customer-intelligence"],
+  "icon": "./assets/logo.png",
+  "supportUrl": "https://www.siftree.com",
+  "privacyPolicyUrl": "https://www.siftree.com/privacy-policy",
+  "termsOfServiceUrl": "https://www.siftree.com/terms-of-service"
+}
