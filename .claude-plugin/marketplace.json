@@ -1,0 +1,15 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
+  "name": "siftree",
+  "description": "Siftree's plugin for Claude.",
+  "owner": {
+    "name": "Siftree",
+    "email": "support@siftree.com"
+  },
+  "plugins": [
+    {
+      "name": "siftree",
+      "source": "./"
+    }
+  ]
+}
